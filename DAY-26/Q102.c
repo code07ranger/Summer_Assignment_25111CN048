@@ -1,5 +1,5 @@
+//write a program to create a voting system
 #include <stdio.h>
-
 int main() {
     int age;
     int is_citizen;
